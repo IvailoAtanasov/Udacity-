@@ -14,17 +14,22 @@ Education is no longer a one-time event but a lifelong experience. Education sho
 </p>
 <h2>Table of content</h2>
 <table >
-         <tr>
-          <th>Course</th>
-          <th>Programing language</th>
-          <th>Projects</th>
-          </tr>
-          <tr align="center">
-    <td><a href="#itop">Intro to Programing</a></td>
+   <tr>
+    <th>Course</th>
+    <th>Programing language</th>
+    <th>Projects</th>
+   </tr>
+   <tr align="center">
+    <td><a href="#itop">Intro to Computer Science</a></td>
     <td>Python</td>
     <td>Web Crawler</td>
+   </tr>
+   <tr align="center">
+    <td><a href="#2">Programing Foundations with Python</a></td>
+    <td>Python</td>
+    <td>Movie website</td>
   </tr>
-          </table>
+ </table>
           
 <h2>Programming languages / Technologies / Principles / Concepts</h2>
  <ul>
@@ -45,9 +50,13 @@ Education is no longer a one-time event but a lifelong experience. Education sho
  <li>Data Analysis</li>
  <li>Cibersecurity</li>
  </ul>
- <h2 id="itop">Intro to Programing</h2>
+ <h2 id="itop">Intro to Computer Science</h2>
  <ul>
-<li><a href="https://github.com/IvailoAtanasov/Udacity.com/tree/master/IntroToPrograming">Project Code</a></li>
+<li><a href="https://github.com/IvailoAtanasov/Udacity.com/tree/master/IntroToComputerScience">Project Code</a></li>
+</ul>
+<h2 id="2">Programing Foundations with Python</h2>
+ <ul>
+<li><a href="https://github.com/IvailoAtanasov/Udacity.com/tree/master/ProgramingFoundationsWithPython">Project Code</a></li>
 </ul>
 </body>
 </html>
