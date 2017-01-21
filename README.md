@@ -5,8 +5,9 @@
 
 
 
----------------------------------------------------------------------------------------------
-In this repository I`ll add all code from exercises and quizzes
-written in Udacity courses
--------------------------------------------------------------------
-First Course is Intro to Computer Science
+<table style="width:100%">
+   <tr>
+    <th>Python</th>
+    <th>Georgia Tech University</th>
+    <th>Web</th>
+  </tr>
