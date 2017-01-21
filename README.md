@@ -22,17 +22,30 @@ th, td {
     padding: 15px;
 }
 </style>
+<body>
+
 <table style="width:100%">
-         <tr>
-          <th>Course</th>
-          <th>Programing language</th>
-          <th>Level</th>
-          </tr>
-          <tr>
-    <td>Intro to Computer Science</td>
-    <td>Python</td>
-    <td>Beginner</td>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
   </tr>
-          </table>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+</body>
 </body>
 </html>
