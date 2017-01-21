@@ -25,5 +25,8 @@ Education is no longer a one-time event but a lifelong experience. Education sho
     <td>Beginner</td>
   </tr>
           </table>
+          
+<h2>Programming languages / Technologies / Principles / Concepts</h2>
+<li>Python</li>
 </body>
 </html>
