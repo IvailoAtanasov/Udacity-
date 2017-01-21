@@ -13,6 +13,15 @@
 Education is no longer a one-time event but a lifelong experience. Education should be less passive listening (no long lectures) and more active doing. Education should empower students to succeed not just in school but in life.
 </p>
 <h2>Table of content</h2>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+</style>
 <table style="width:100%">
          <tr>
           <th>Course</th>
