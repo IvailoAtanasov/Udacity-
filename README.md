@@ -13,39 +13,17 @@
 Education is no longer a one-time event but a lifelong experience. Education should be less passive listening (no long lectures) and more active doing. Education should empower students to succeed not just in school but in life.
 </p>
 <h2>Table of content</h2>
-<style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-th, td {
-    padding: 15px;
-}
-</style>
-<body>
-
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+<table style="text-align:center">
+         <tr>
+          <th>Course</th>
+          <th>Programing language</th>
+          <th>Level</th>
+          </tr>
+          <tr>
+    <td>Intro to Computer Science</td>
+    <td>Python</td>
+    <td>Beginner</td>
   </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
-</body>
+          </table>
 </body>
 </html>
