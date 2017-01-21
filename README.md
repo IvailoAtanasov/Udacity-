@@ -45,7 +45,7 @@ Education is no longer a one-time event but a lifelong experience. Education sho
  <li>Data Analysis</li>
  <li>Cibersecurity</li>
  </ul>
- <h2>id="itop">Intro to Programing</h2>
+ <h2 id="itop">Intro to Programing</h2>
  <ul>
 <li><a href="https://github.com/IvailoAtanasov/Udacity.com/tree/master/IntroToPrograming">Project Code</a></li>
 </ul>
