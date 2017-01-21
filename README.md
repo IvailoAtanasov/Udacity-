@@ -17,18 +17,33 @@ Education is no longer a one-time event but a lifelong experience. Education sho
          <tr>
           <th>Course</th>
           <th>Programing language</th>
-          <th>Level</th>
+          <th>Projects</th>
           </tr>
           <tr align="center">
     <td>Intro to Computer Science</td>
     <td>Python</td>
-    <td>Beginner</td>
+    <td>Web Crawler</td>
   </tr>
           </table>
           
 <h2>Programming languages / Technologies / Principles / Concepts</h2>
  <ul>
  <li>Python</li>
+ <li>Computer Science</li>
+ <li>Machine Learning</li>
+ <li>Big Data</li>
+ <li>Artificial Intelligence</li>
+ <li>Programing Foundations</li>
+ <li>Linear Algebra</li>
+ <li>Cognitive Systems</li>
+ <li>Software Architecture and Design</li>
+ <li>High Performance Computer Architecture</li>
+ <li>Reinforcement Learning</li>
+ <li>Operating Systems</li>
+ <li>Robotics</li>
+ <li>Data Structures and Algorithms</li>
+ <li>Data Analysis</li>
+ <li>Cibersecurity</li>
  </ul>
 </body>
 </html>
