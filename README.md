@@ -11,9 +11,7 @@ Udacity mission is to bring accessible, affordable, engaging, and highly effecti
 Education is no longer a one-time event but a lifelong experience. Education should be less passive listening (no long lectures) and more active doing. Education should empower students to succeed not just in school but in life.
 <p/>
 
-<h2>
-   <b>Table of content<b>
-<h2>
+
 <table style="width:100%">
    <tr>
     <th>Course</th>
