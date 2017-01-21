@@ -51,17 +51,4 @@ Education is no longer a one-time event but a lifelong experience. Education sho
 </ul>
 </body>
 </html>
-<html>
-<body>
 
-<h1 id="myHeader">Hello World!</h1>
-<button onclick="displayResult()">Change text</button>
-
-<script>
-function displayResult() {
-    document.getElementById("myHeader").innerHTML = "Have a nice day!";
-}
-</script>
-
-</body>
-</html>
