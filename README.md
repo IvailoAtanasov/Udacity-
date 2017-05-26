@@ -32,13 +32,13 @@ Education is no longer a one-time event but a lifelong experience. Education sho
   </tr>
   <tr align="center">
     <td><a href="#3">Intro to HTML and CSS</a></td>
-    <td>Python</td>
+    <td>HTML/CSS</td>
     <td>Portfolio website</td>
    </tr>
    <tr align="center">
     <td><a href="#4">Responsive Web Design Fundamentals</a></td>
-    <td>Python</td>
-    <td>Portfolio website</td>
+    <td>HTML/CSS</td>
+    <td>Responsive Web Application</td>
    </tr>
  </table>
           
