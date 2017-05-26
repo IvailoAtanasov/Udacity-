@@ -30,6 +30,11 @@ Education is no longer a one-time event but a lifelong experience. Education sho
     <td>Python</td>
     <td>Movie website</td>
   </tr>
+  <tr align="center">
+    <td><a href="#3">Intro to HTML and CSS</a></td>
+    <td>Python</td>
+    <td>Portfolio website</td>
+   </tr>
  </table>
           
 <h2>Programming languages / Technologies / Principles / Concepts</h2>
@@ -61,6 +66,11 @@ Education is no longer a one-time event but a lifelong experience. Education sho
 <hr/>
  <ul>
 <li><a href="https://github.com/IvailoAtanasov/Udacity.com/tree/master/ProgramingFoundationsWithPython">Project Code</a></li>
+</ul>
+<h2 id="3">Intro to HTML and CSS</h2>
+<hr/>
+ <ul>
+<li><a href="https://github.com/IvailoAtanasov/Udacity.com/tree/master/IntroToHTMLAndCSS/Portfolio/framework">Project Code</a></li>
 </ul>
 </body>
 </html>
